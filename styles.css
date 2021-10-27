@@ -57,6 +57,10 @@ main {
     background: var(--clr-black);
   }
 
+.button-container {
+    margin-bottom: 10%;
+  }
+
 
   .footer {
     position: fixed;
