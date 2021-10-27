@@ -1,5 +1,1 @@
-# counter.js
-# javascript-clicker
-# javascript-clicker
-# javascript-clicker
-# javascript-clicker
+Javascript Clicker that tracks user input "click".
